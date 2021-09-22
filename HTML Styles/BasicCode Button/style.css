@@ -1,4 +1,4 @@
-.button-background {
+.button-background-light {
   width: 210px;
   height: 75px;
   padding-bottom: 3px;
@@ -16,7 +16,7 @@
   height: 70px;
 }
 
-.text {
+.text-light {
   width: 150px;
   height: 40px;
   font-size: 24px;
