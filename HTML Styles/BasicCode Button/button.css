@@ -11,6 +11,19 @@
   justify-content: flex-start;
 }
 
+.button-background-dark {
+  width: 210px;
+  height: 75px;
+  padding-bottom: 3px;
+  padding-right: 8px;
+  background-color: #22232a;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
 .image {
   width: 70px;
   height: 70px;
@@ -22,5 +35,14 @@
   font-size: 24px;
   line-height: 100%;
   color: black;
+  font-family: "Roboto", sans-serif;
+}
+
+.text-dark {
+  width: 150px;
+  height: 40px;
+  font-size: 24px;
+  line-height: 100%;
+  color: white;
   font-family: "Roboto", sans-serif;
 }
