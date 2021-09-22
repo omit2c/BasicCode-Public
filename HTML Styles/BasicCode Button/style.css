@@ -1,0 +1,31 @@
+.button-back {
+  width: 210px;
+  height: 75px;
+}
+
+.button-background {
+  width: 210px;
+  height: 75px;
+  padding-bottom: 3px;
+  padding-right: 8px;
+  background-color: #f0f1f2;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.image {
+  width: 70px;
+  height: 70px;
+}
+
+.text {
+  width: 150px;
+  height: 40px;
+  font-size: 24px;
+  line-height: 100%;
+  color: black;
+  font-family: "Roboto", sans-serif;
+}
