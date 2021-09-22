@@ -11,6 +11,10 @@
   justify-content: flex-start;
 }
 
+.button-background-light:hover {
+  background-color: #f50757;
+}
+
 .button-background-dark {
   width: 210px;
   height: 75px;
@@ -22,6 +26,10 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
+}
+
+.button-background-dark:hover {
+  background-color: #f50757;
 }
 
 .image {

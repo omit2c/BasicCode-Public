@@ -10,6 +10,6 @@ The styling of this button gets updated automatically with a new commit on this 
 
 Usage:
 
-Copy the code of this file [Light Mode Button][https://github.com/omit2c/basiccode-public/blob/main/html_styles/basiccode_button/lightmodebutton.html] to use the light mode version of the BasicCode button.
+Copy the code of this file [Light Mode Button][https://github.com/omit2c/basiccode-public/blob/3556d02649a86ed4c7d278ede28475a51b6d59da/html_styles/basiccode_button/lightmodebutton.html] to use the light mode version of the BasicCode button.
 
-Copy the code of this file [Dark Mode Button][https://github.com/omit2c/basiccode-public/blob/main/html_styles/basiccode_button/darkmodebutton.html] to use the dark mode version of the BasicCode button.
+Copy the code of this file [Dark Mode Button][https://github.com/omit2c/basiccode-public/blob/3556d02649a86ed4c7d278ede28475a51b6d59da/html_styles/basiccode_button/darkmodebutton.html] to use the dark mode version of the BasicCode button.
